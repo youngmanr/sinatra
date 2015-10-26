@@ -26,3 +26,5 @@ end
 get '/tuesday' do
   "._."
 end
+
+
